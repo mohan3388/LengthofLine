@@ -1,0 +1,15 @@
+D:\length\LengthofLine\LengthofLine\bin\Debug\net6.0\LengthofLine.exe
+D:\length\LengthofLine\LengthofLine\bin\Debug\net6.0\LengthofLine.deps.json
+D:\length\LengthofLine\LengthofLine\bin\Debug\net6.0\LengthofLine.runtimeconfig.json
+D:\length\LengthofLine\LengthofLine\bin\Debug\net6.0\LengthofLine.dll
+D:\length\LengthofLine\LengthofLine\bin\Debug\net6.0\LengthofLine.pdb
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.csproj.AssemblyReference.cache
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.AssemblyInfoInputs.cache
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.AssemblyInfo.cs
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.csproj.CoreCompileInputs.cache
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.dll
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\refint\LengthofLine.dll
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.pdb
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\LengthofLine.genruntimeconfig.cache
+D:\length\LengthofLine\LengthofLine\obj\Debug\net6.0\ref\LengthofLine.dll
